@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/{487480857}.svg)](https://zenodo.org/badge/latestdoi/{487480857})
+[![DOI](https://zenodo.org/badge/487480857.svg)](https://zenodo.org/badge/latestdoi/487480857)
 
 # Solitons
 ## Spring-coupled pendulum chain

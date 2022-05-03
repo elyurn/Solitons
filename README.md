@@ -5,6 +5,8 @@
 
 [Python Jupyter Notebook to compute the FDTD and plot imshows](FDTD_Imshow.ipynb)
 
+[Python script to control stepper motors from a Raspberry Pi card](Stepper_motor.py)
+
 ### Kink and kink
 <img src="Animations/kinkkink.gif" alt="Kink and kink" width="400"/>
 

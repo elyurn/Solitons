@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Solitons
+message: Please cite as below
+type: software
+authors:
+  - given-names: Tristan Nerson
+    name-particle: Mr
+    family-names: Nerson
+    email: tristan.nerson@gmail.com
+    affiliation: Le Mans Université
+  - given-names: Hubert Coste
+    name-particle: Mr
+    family-names: Coste
+    affiliation: Le Mans Université

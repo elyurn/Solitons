@@ -9,6 +9,9 @@
 
 [Python script to control stepper motors from a Raspberry Pi card](Stepper_motor.py)
 
+### Moving kink (experience)
+<img src="video.gif" alt="Moving kink" width="400"/>
+
 ### Kink and kink
 <img src="Animations/kinkkink.gif" alt="Kink and kink" width="400"/>
 
